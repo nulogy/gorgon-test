@@ -1,0 +1,13 @@
+{
+  "connection": {
+    "host": "localhost"
+  },
+
+  "job": {
+    "source_tree_path": "localhost:src/gorgon"
+  },
+
+  "files": [
+    "test/**"
+  ]
+}
