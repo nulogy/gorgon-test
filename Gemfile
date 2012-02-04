@@ -1,4 +1,4 @@
 source :rubygems
 
 gem "rake"
-gem "gorgon"
+gem "gorgon", :path => "~/src/Gorgon"
