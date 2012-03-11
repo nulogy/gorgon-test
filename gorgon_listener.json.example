@@ -3,5 +3,6 @@
     "host": "localhost"
   },
 
-  "worker_slots": 1
+  "worker_slots": 1,
+  "log_file": "listener.log"
 }
