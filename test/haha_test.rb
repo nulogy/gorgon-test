@@ -7,9 +7,12 @@ class Over9000 < Test::Unit::TestCase
   end
 
   def test_will_fail
-    sleep 3
+    assert false
+  end
+
+  def test_2_will_fail
+    sleep 1
     assert false
   end
 end
 end
-
