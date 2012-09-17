@@ -7,7 +7,7 @@ class Haha1 < Test::Unit::TestCase
   end
 
   def test_going_to_blow_up
-    sleep 3
+    sleep 1
     raise "oh mah gawd"
   end
 end

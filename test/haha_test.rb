@@ -11,7 +11,6 @@ class Over9000 < Test::Unit::TestCase
   end
 
   def test_2_will_fail
-    sleep 1
     assert false
   end
 end
