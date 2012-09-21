@@ -4,10 +4,26 @@
   },
 
   "job": {
-    "source_tree_path": "localhost:src/gorgon"
+    "source_tree_path": "localhost:src/gorgon-test",
+    "sync_exclude": [
+        "tags",
+        "tmp",
+        "*.log",
+        "doc",
+        ".git",
+        ".rvmrc",
+        "*.example"
+    ],
+    "callbacks": {
+        "before_start": "before_start_callback.rb",
+        "before_creating_workers": "before_creating_workers.rb",
+        "after_sync": "after_sync_callback.rb"
+    }
   },
 
   "files": [
     "test/**"
-  ]
+  ],
+
+  "originator_log_file": "gorgon-orginator.log"
 }
