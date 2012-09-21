@@ -1,4 +1,3 @@
-puts "AFTER SYNC CALLBACK WAS CALLED"
 
 pid, stdin, stdout, stderr = Open4::popen4 "bundle install"
 
