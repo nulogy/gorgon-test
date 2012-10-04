@@ -1,4 +1,6 @@
 
+# raise "BOOOOOOOOOOOM"
+
 pid, stdin, stdout, stderr = Open4::popen4 "bundle install"
 
 ignore, status = Process.waitpid2 pid
