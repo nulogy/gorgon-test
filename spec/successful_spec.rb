@@ -1,9 +1,9 @@
 describe "Successful spec" do
   it "passes" do
-    true.should be_true
+    true.should eq(true)
   end
 
   it "passes again" do
-    false.should be_false
+    false.should eq(false)
   end
 end
