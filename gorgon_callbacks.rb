@@ -32,9 +32,10 @@ class MyCallbacks < Gorgon::DefaultCallbacks
       $stderr.puts "filling stderr"
     end
 
-    require 'rspec'
     require 'test/unit'
     require 'minitest/unit'
+
+    require File.expand_path('../spec/spec_helper.rb', __FILE__)
 
     # to test that Listener reports to Originator crashes in WorkerManager
     # raise "BOOM"
