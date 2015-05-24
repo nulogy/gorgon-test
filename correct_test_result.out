@@ -1,0 +1,76 @@
+Welcome to Gorgon 0.9.0
+before job starts was called
+Loading environment and workers...                                  Legend:
+F - failure files count
+H - number of hosts that have run files
+W - number of workers running files
+                                                                                                                                                                                                        Progress | [>                                                                                                                                                                       ] 0/9 Time: 00:00:00 F: 0 H: 1 W: 1 | [>                                                                                                                                                                ] 0/9 Time: 00:00:00 F: 0 H: 1 W: 1 | [>                                                                                                                                                                ] 0/9 Time: 00:00:00 F: 0 H: 1 W: 0 | [>                                                                                                                                                                ] 0/9 Time: 00:00:00 F: 0 H: 1 W: 0 | [====== 11 =======>                                                                                                                                               ] 1/9 Time: 00:00:00 F: 0 H: 1 W: 1 | [====== 11 =======>                                                                                                                                               ] 1/9 Time: 00:00:00 F: 0 H: 1 W: 1 | [====== 11 =======>                                                                                                                                               ] 1/9 Time: 00:00:00 F: 0 H: 1 W: 0 | [====== 11 =======>                                                                                                                                               ] 1/9 Time: 00:00:00 F: 0 H: 1 W: 0 | [=============== 22 ================>                                                                                                                             ] 2/9 Time: 00:00:00 F: 0 H: 1 W: 1 | [=============== 22 ================>                                                                                                                             ] 2/9 Time: 00:00:00 F: 0 H: 1 W: 1 | [=============== 22 ================>                                                                                                                             ] 2/9 Time: 00:00:00 F: 0 H: 1 W: 1 | [=============== 22 ================>                                                                                                                             ] 2/9 Time: 00:00:00 F: 0 H: 1 W: 1 | [=============== 22 ================>                                                                                                                             ] 2/9 Time: 00:00:00 F: 1 H: 1 W: 0 | [=============== 22 ================>                                                                                                                             ] 2/9 Time: 00:00:01 F: 1 H: 1 W: 0 | [======================== 33 ========================>                                                                                                            ] 3/9 Time: 00:00:01 F: 1 H: 1 W: 1 | [======================== 33 ========================>                                                                                                            ] 3/9 Time: 00:00:01 F: 1 H: 1 W: 1 | [======================== 33 ========================>                                                                                                            ] 3/9 Time: 00:00:01 F: 2 H: 1 W: 0 | [======================== 33 ========================>                                                                                                            ] 3/9 Time: 00:00:01 F: 2 H: 1 W: 0 | [================================= 44 =================================>                                                                                          ] 4/9 Time: 00:00:01 F: 2 H: 1 W: 1 | [================================= 44 =================================>                                                                                          ] 4/9 Time: 00:00:01 F: 2 H: 1 W: 1 | [================================= 44 =================================>                                                                                          ] 4/9 Time: 00:00:01 F: 2 H: 1 W: 0 | [================================= 44 =================================>                                                                                          ] 4/9 Time: 00:00:01 F: 2 H: 1 W: 0 | [========================================== 55 ==========================================>                                                                        ] 5/9 Time: 00:00:01 F: 2 H: 1 W: 1 | [========================================== 55 ==========================================>                                                                        ] 5/9 Time: 00:00:01 F: 2 H: 1 W: 1 | [========================================== 55 ==========================================>                                                                        ] 5/9 Time: 00:00:01 F: 3 H: 1 W: 0 | [========================================== 55 ==========================================>                                                                        ] 5/9 Time: 00:00:01 F: 3 H: 1 W: 0 | [================================================== 66 ===================================================>                                                       ] 6/9 Time: 00:00:01 F: 3 H: 1 W: 1 | [================================================== 66 ===================================================>                                                       ] 6/9 Time: 00:00:01 F: 3 H: 1 W: 1 | [================================================== 66 ===================================================>                                                       ] 6/9 Time: 00:00:01 F: 4 H: 1 W: 0 | [================================================== 66 ===================================================>                                                       ] 6/9 Time: 00:00:01 F: 4 H: 1 W: 0 | [=========================================================== 77 ============================================================>                                     ] 7/9 Time: 00:00:01 F: 4 H: 1 W: 1 | [=========================================================== 77 ============================================================>                                     ] 7/9 Time: 00:00:01 F: 4 H: 1 W: 1 | [=========================================================== 77 ============================================================>                                     ] 7/9 Time: 00:00:01 F: 5 H: 1 W: 0 | [=========================================================== 77 ============================================================>                                     ] 7/9 Time: 00:00:01 F: 5 H: 1 W: 0 | [==================================================================== 88 ====================================================================>                    ] 8/9 Time: 00:00:01 F: 5 H: 1 W: 1 | [==================================================================== 88 ====================================================================>                    ] 8/9 Time: 00:00:01 F: 5 H: 1 W: 1 | [==================================================================== 88 ====================================================================>                    ] 8/9 Time: 00:00:01 F: 5 H: 1 W: 0 | [==================================================================== 88 ====================================================================>                    ] 8/9 Time: 00:00:01 F: 5 H: 1 W: 0 | [============================================================================= 100 ==============================================================================>] 9/9 Time: 00:00:01
+
+********************************************************************************
+File 'test/unit/1_test.rb' failed/crashed at 'arturop-mac-2.local:1'
+[1;33mError:[0m
+test_going_to_blow_up(Stuff::Haha1):
+RuntimeError: oh mah gawd
+    test/unit/1_test.rb:11:in `test_going_to_blow_up'
+
+********************************************************************************
+File 'test/unit/haha_test.rb' failed/crashed at 'arturop-mac-2.local:1'
+[1;31mFailure:[0m
+test_2_will_fail(Stuff::Over9000) [test/unit/haha_test.rb:14]:
+<false> is not true.
+[1;31mFailure:[0m
+test_will_fail(Stuff::Over9000) [test/unit/haha_test.rb:10]:
+<false> is not true.
+
+********************************************************************************
+File 'test/unit/syntax_error_test.rb' failed/crashed at 'arturop-mac-2.local:1'
+Exception: test/unit/syntax_error_test.rb:9: syntax error, unexpected $end, expecting keyword_end
+/Users/arturopie/src/Gorgon/lib/gorgon/test_unit_runner.rb:34:in `load'
+/Users/arturopie/src/Gorgon/lib/gorgon/test_unit_runner.rb:34:in `run_file'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:17:in `run_file'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:126:in `run_file'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:99:in `block (2 levels) in work'
+/Users/arturopie/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:98:in `block in work'
+/Users/arturopie/src/Gorgon/lib/gorgon/amqp_service.rb:36:in `block in start_worker'
+/Users/arturopie/src/Gorgon/lib/gorgon_bunny/lib/gorgon_bunny.rb:81:in `call'
+/Users/arturopie/src/Gorgon/lib/gorgon_bunny/lib/gorgon_bunny.rb:81:in `run'
+/Users/arturopie/src/Gorgon/lib/gorgon/amqp_service.rb:33:in `start_worker'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:93:in `work'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:91:in `block in fork_a_worker'
+/Users/arturopie/src/Gorgon/lib/gorgon/pipe_forker.rb:9:in `block in pipe_fork'
+/Users/arturopie/src/Gorgon/lib/gorgon/pipe_forker.rb:4:in `fork'
+/Users/arturopie/src/Gorgon/lib/gorgon/pipe_forker.rb:4:in `pipe_fork'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:89:in `fork_a_worker'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:75:in `block (2 levels) in fork_workers'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `times'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `block in fork_workers'
+/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `call'
+/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run_machine'
+/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:73:in `fork_workers'
+/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:53:in `manage'
+/Users/arturopie/src/Gorgon/bin/gorgon:41:in `manage_workers'
+/Users/arturopie/src/Gorgon/bin/gorgon:89:in `<top (required)>'
+/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/gorgon:23:in `load'
+/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/gorgon:23:in `<main>'
+/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
+/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>'
+
+********************************************************************************
+File 'spec/exception_spec.rb' failed/crashed at 'arturop-mac-2.local:1'
+Test name: Exception spec raises: line 2
+[1;31mRuntimeError[0m
+Message: 
+	BOOOOM from spec!
+
+
+********************************************************************************
+File 'spec/failing_spec.rb' failed/crashed at 'arturop-mac-2.local:1'
+Test name: Failing spec fails: line 6
+[1;31mRSpec::Expectations::ExpectationNotMetError[0m
+Message: 
+	expected: false value
+     got: true
+
+running after_job_finishes
