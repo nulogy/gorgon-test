@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
 gem 'minitest-reporters'
 gem 'minitest', '2.11.0'
