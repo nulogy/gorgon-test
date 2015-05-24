@@ -1,10 +1,10 @@
 describe "Failing spec" do
   it "passes once" do
-    true.should be_true
+    true.should eq(true)
   end
 
   it "fails" do
-    true.should be_false
+    true.should eq(false)
   end
 
   it "has pending tests"
