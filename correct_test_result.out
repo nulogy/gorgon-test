@@ -7,49 +7,49 @@ W - number of workers running files
                                                                                                                                                                                                         Progress | [>                                                                                                                                                                      ] 0/11 Time: 00:00:00 F: 0 H: 1 W: 1 | [>                                                                                                                                                               ] 0/11 Time: 00:00:00 F: 0 H: 1 W: 1 | [>                                                                                                                                                               ] 0/11 Time: 00:00:00 F: 0 H: 1 W: 0 | [>                                                                                                                                                               ] 0/11 Time: 00:00:00 F: 0 H: 1 W: 0 | [===== 9 ======>                                                                                                                                                 ] 1/11 Time: 00:00:00 F: 0 H: 1 W: 1 | [===== 9 ======>                                                                                                                                                 ] 1/11 Time: 00:00:00 F: 0 H: 1 W: 1 | [===== 9 ======>                                                                                                                                                 ] 1/11 Time: 00:00:00 F: 0 H: 1 W: 0 | [===== 9 ======>                                                                                                                                                 ] 1/11 Time: 00:00:00 F: 0 H: 1 W: 0 | [============ 18 ============>                                                                                                                                   ] 2/11 Time: 00:00:00 F: 0 H: 1 W: 1 | [============ 18 ============>                                                                                                                                   ] 2/11 Time: 00:00:00 F: 0 H: 1 W: 1 | [============ 18 ============>                                                                                                                                   ] 2/11 Time: 00:00:00 F: 1 H: 1 W: 0 | [============ 18 ============>                                                                                                                                   ] 2/11 Time: 00:00:00 F: 1 H: 1 W: 0 | [=================== 27 ===================>                                                                                                                     ] 3/11 Time: 00:00:00 F: 1 H: 1 W: 1 | [=================== 27 ===================>                                                                                                                     ] 3/11 Time: 00:00:00 F: 1 H: 1 W: 1 | [=================== 27 ===================>                                                                                                                     ] 3/11 Time: 00:00:00 F: 2 H: 1 W: 0 | [=================== 27 ===================>                                                                                                                     ] 3/11 Time: 00:00:00 F: 2 H: 1 W: 0 | [========================== 36 ===========================>                                                                                                      ] 4/11 Time: 00:00:00 F: 2 H: 1 W: 1 | [========================== 36 ===========================>                                                                                                      ] 4/11 Time: 00:00:00 F: 2 H: 1 W: 1 | [========================== 36 ===========================>                                                                                                      ] 4/11 Time: 00:00:00 F: 3 H: 1 W: 0 | [========================== 36 ===========================>                                                                                                      ] 4/11 Time: 00:00:00 F: 3 H: 1 W: 0 | [================================= 45 ==================================>                                                                                        ] 5/11 Time: 00:00:00 F: 3 H: 1 W: 1 | [================================= 45 ==================================>                                                                                        ] 5/11 Time: 00:00:00 F: 3 H: 1 W: 1 | [================================= 45 ==================================>                                                                                        ] 5/11 Time: 00:00:00 F: 3 H: 1 W: 0 | [================================= 45 ==================================>                                                                                        ] 5/11 Time: 00:00:00 F: 3 H: 1 W: 0 | [======================================== 54 =========================================>                                                                          ] 6/11 Time: 00:00:00 F: 3 H: 1 W: 1 | [======================================== 54 =========================================>                                                                          ] 6/11 Time: 00:00:00 F: 3 H: 1 W: 1 | [======================================== 54 =========================================>                                                                          ] 6/11 Time: 00:00:00 F: 4 H: 1 W: 0 | [======================================== 54 =========================================>                                                                          ] 6/11 Time: 00:00:00 F: 4 H: 1 W: 0 | [================================================ 63 ================================================>                                                           ] 7/11 Time: 00:00:00 F: 4 H: 1 W: 1 | [================================================ 63 ================================================>                                                           ] 7/11 Time: 00:00:00 F: 4 H: 1 W: 1 | [================================================ 63 ================================================>                                                           ] 7/11 Time: 00:00:00 F: 5 H: 1 W: 0 | [================================================ 63 ================================================>                                                           ] 7/11 Time: 00:00:00 F: 5 H: 1 W: 0 | [======================================================= 72 =======================================================>                                             ] 8/11 Time: 00:00:00 F: 5 H: 1 W: 1 | [======================================================= 72 =======================================================>                                             ] 8/11 Time: 00:00:00 F: 5 H: 1 W: 1 | [======================================================= 72 =======================================================>                                             ] 8/11 Time: 00:00:00 F: 6 H: 1 W: 0 | [======================================================= 72 =======================================================>                                             ] 8/11 Time: 00:00:00 F: 6 H: 1 W: 0 | [============================================================== 81 ==============================================================>                               ] 9/11 Time: 00:00:00 F: 6 H: 1 W: 1 | [============================================================== 81 ==============================================================>                               ] 9/11 Time: 00:00:00 F: 6 H: 1 W: 1 | [============================================================== 81 ==============================================================>                               ] 9/11 Time: 00:00:00 F: 6 H: 1 W: 0 | [============================================================== 81 ==============================================================>                               ] 9/11 Time: 00:00:00 F: 6 H: 1 W: 0 | [===================================================================== 90 =====================================================================>                ] 10/11 Time: 00:00:00 F: 6 H: 1 W: 1 | [===================================================================== 90 =====================================================================>                ] 10/11 Time: 00:00:00 F: 6 H: 1 W: 1 | [===================================================================== 90 =====================================================================>                ] 10/11 Time: 00:00:00 F: 6 H: 1 W: 0 | [===================================================================== 90 =====================================================================>                ] 10/11 Time: 00:00:00 F: 6 H: 1 W: 0 | [============================================================================ 100 =============================================================================>] 11/11 Time: 00:00:00
 
 ********************************************************************************
-File 'test/unit/1_syntax_error_test.rb' failed/crashed at 'arturop-mac-2.local:1'
+File 'test/unit/1_syntax_error_test.rb' failed/crashed at hostname
 Exception: test/unit/1_syntax_error_test.rb:9: syntax error, unexpected $end, expecting keyword_end
-/Users/arturopie/src/Gorgon/lib/gorgon/test_unit_runner.rb:34:in `load'
-/Users/arturopie/src/Gorgon/lib/gorgon/test_unit_runner.rb:34:in `run_file'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:17:in `run_file'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:126:in `run_file'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:99:in `block (2 levels) in work'
-/Users/arturopie/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:98:in `block in work'
-/Users/arturopie/src/Gorgon/lib/gorgon/amqp_service.rb:36:in `block in start_worker'
-/Users/arturopie/src/Gorgon/lib/gorgon_bunny/lib/gorgon_bunny.rb:81:in `call'
-/Users/arturopie/src/Gorgon/lib/gorgon_bunny/lib/gorgon_bunny.rb:81:in `run'
-/Users/arturopie/src/Gorgon/lib/gorgon/amqp_service.rb:33:in `start_worker'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:93:in `work'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:91:in `block in fork_a_worker'
-/Users/arturopie/src/Gorgon/lib/gorgon/pipe_forker.rb:9:in `block in pipe_fork'
-/Users/arturopie/src/Gorgon/lib/gorgon/pipe_forker.rb:4:in `fork'
-/Users/arturopie/src/Gorgon/lib/gorgon/pipe_forker.rb:4:in `pipe_fork'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:89:in `fork_a_worker'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:75:in `block (2 levels) in fork_workers'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `times'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `block in fork_workers'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `call'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run_machine'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:73:in `fork_workers'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:53:in `manage'
-/Users/arturopie/src/Gorgon/bin/gorgon:41:in `manage_workers'
-/Users/arturopie/src/Gorgon/bin/gorgon:89:in `<top (required)>'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/gorgon:23:in `load'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/gorgon:23:in `<main>'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>'
+Users/username/src/Gorgon/lib/gorgon/test_unit_runner.rb:34:in `load'
+Users/username/src/Gorgon/lib/gorgon/test_unit_runner.rb:34:in `run_file'
+Users/username/src/Gorgon/lib/gorgon/worker.rb:17:in `run_file'
+Users/username/src/Gorgon/lib/gorgon/worker.rb:126:in `run_file'
+Users/username/src/Gorgon/lib/gorgon/worker.rb:99:in `block (2 levels) in work'
+Users/username/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+Users/username/src/Gorgon/lib/gorgon/worker.rb:98:in `block in work'
+Users/username/src/Gorgon/lib/gorgon/amqp_service.rb:36:in `block in start_worker'
+Users/username/src/Gorgon/lib/gorgon_bunny/lib/gorgon_bunny.rb:81:in `call'
+Users/username/src/Gorgon/lib/gorgon_bunny/lib/gorgon_bunny.rb:81:in `run'
+Users/username/src/Gorgon/lib/gorgon/amqp_service.rb:33:in `start_worker'
+Users/username/src/Gorgon/lib/gorgon/worker.rb:93:in `work'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:91:in `block in fork_a_worker'
+Users/username/src/Gorgon/lib/gorgon/pipe_forker.rb:9:in `block in pipe_fork'
+Users/username/src/Gorgon/lib/gorgon/pipe_forker.rb:4:in `fork'
+Users/username/src/Gorgon/lib/gorgon/pipe_forker.rb:4:in `pipe_fork'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:89:in `fork_a_worker'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:75:in `block (2 levels) in fork_workers'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `times'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `block in fork_workers'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `call'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run_machine'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:73:in `fork_workers'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:53:in `manage'
+Users/username/src/Gorgon/bin/gorgon:41:in `manage_workers'
+Users/username/src/Gorgon/bin/gorgon:89:in `<top (required)>'
+Users/username/.rvm/gems/ruby-1.9.3-p551/bin/gorgon:23:in `load'
+Users/username/.rvm/gems/ruby-1.9.3-p551/bin/gorgon:23:in `<main>'
+Users/username/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
+Users/username/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>'
 
 ********************************************************************************
-File 'test/unit/exception_test.rb' failed/crashed at 'arturop-mac-2.local:1'
+File 'test/unit/exception_test.rb' failed/crashed at hostname
 [1;33mError:[0m
 test_going_to_blow_up(Stuff::Haha1):
 RuntimeError: oh mah gawd
     test/unit/exception_test.rb:10:in `test_going_to_blow_up'
 
 ********************************************************************************
-File 'test/unit/failing_test.rb' failed/crashed at 'arturop-mac-2.local:1'
+File 'test/unit/failing_test.rb' failed/crashed at hostname
 [1;31mFailure:[0m
 test_2_will_fail(Stuff::Over9000) [test/unit/failing_test.rb:14]:
 <false> is not true.
@@ -58,52 +58,52 @@ test_will_fail(Stuff::Over9000) [test/unit/failing_test.rb:10]:
 <false> is not true.
 
 ********************************************************************************
-File 'spec/1_syntax_error_spec.rb' failed/crashed at 'arturop-mac-2.local:1'
+File 'spec/1_syntax_error_spec.rb' failed/crashed at hostname
 Exception: undefined local variable or method `ruby' for main:Object
-/private/var/folders/tj/8n114w9x2dz6jh5z04ntln8m0000gp/T/gorgon20150603-34958-j0lg98/spec/1_syntax_error_spec.rb:1:in `<top (required)>'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/configuration.rb:1226:in `load'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/configuration.rb:1226:in `block in load_spec_files'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/configuration.rb:1224:in `each'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/configuration.rb:1224:in `load_spec_files'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/runner.rb:97:in `setup'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/runner.rb:85:in `run'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/runner.rb:67:in `rescue in run'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/runner.rb:63:in `run'
-/Users/arturopie/src/Gorgon/lib/gorgon/rspec_runner.rb:18:in `block in run_file'
-/Users/arturopie/src/Gorgon/lib/gorgon/rspec_runner.rb:34:in `keep_config_modules'
-/Users/arturopie/src/Gorgon/lib/gorgon/rspec_runner.rb:17:in `run_file'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:17:in `run_file'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:126:in `run_file'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:99:in `block (2 levels) in work'
-/Users/arturopie/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:98:in `block in work'
-/Users/arturopie/src/Gorgon/lib/gorgon/amqp_service.rb:36:in `block in start_worker'
-/Users/arturopie/src/Gorgon/lib/gorgon_bunny/lib/gorgon_bunny.rb:81:in `call'
-/Users/arturopie/src/Gorgon/lib/gorgon_bunny/lib/gorgon_bunny.rb:81:in `run'
-/Users/arturopie/src/Gorgon/lib/gorgon/amqp_service.rb:33:in `start_worker'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker.rb:93:in `work'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:91:in `block in fork_a_worker'
-/Users/arturopie/src/Gorgon/lib/gorgon/pipe_forker.rb:9:in `block in pipe_fork'
-/Users/arturopie/src/Gorgon/lib/gorgon/pipe_forker.rb:4:in `fork'
-/Users/arturopie/src/Gorgon/lib/gorgon/pipe_forker.rb:4:in `pipe_fork'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:89:in `fork_a_worker'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:75:in `block (2 levels) in fork_workers'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `times'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `block in fork_workers'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `call'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run_machine'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:73:in `fork_workers'
-/Users/arturopie/src/Gorgon/lib/gorgon/worker_manager.rb:53:in `manage'
-/Users/arturopie/src/Gorgon/bin/gorgon:41:in `manage_workers'
-/Users/arturopie/src/Gorgon/bin/gorgon:89:in `<top (required)>'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/gorgon:23:in `load'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/gorgon:23:in `<main>'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
-/Users/arturopie/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>'
+/private/var/folders/tj/8n114w9x2dz6jh5z04ntln8m0000gp/T/gorgon20160314-11305-1yue7ig/spec/1_syntax_error_spec.rb:1:in `<top (required)>'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/configuration.rb:1226:in `load'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/configuration.rb:1226:in `block in load_spec_files'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/configuration.rb:1224:in `each'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/configuration.rb:1224:in `load_spec_files'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/runner.rb:97:in `setup'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/runner.rb:85:in `run'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/runner.rb:67:in `rescue in run'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/rspec-core-3.2.2/lib/rspec/core/runner.rb:63:in `run'
+Users/username/src/Gorgon/lib/gorgon/rspec_runner.rb:18:in `block in run_file'
+Users/username/src/Gorgon/lib/gorgon/rspec_runner.rb:34:in `keep_config_modules'
+Users/username/src/Gorgon/lib/gorgon/rspec_runner.rb:17:in `run_file'
+Users/username/src/Gorgon/lib/gorgon/worker.rb:17:in `run_file'
+Users/username/src/Gorgon/lib/gorgon/worker.rb:126:in `run_file'
+Users/username/src/Gorgon/lib/gorgon/worker.rb:99:in `block (2 levels) in work'
+Users/username/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+Users/username/src/Gorgon/lib/gorgon/worker.rb:98:in `block in work'
+Users/username/src/Gorgon/lib/gorgon/amqp_service.rb:36:in `block in start_worker'
+Users/username/src/Gorgon/lib/gorgon_bunny/lib/gorgon_bunny.rb:81:in `call'
+Users/username/src/Gorgon/lib/gorgon_bunny/lib/gorgon_bunny.rb:81:in `run'
+Users/username/src/Gorgon/lib/gorgon/amqp_service.rb:33:in `start_worker'
+Users/username/src/Gorgon/lib/gorgon/worker.rb:93:in `work'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:91:in `block in fork_a_worker'
+Users/username/src/Gorgon/lib/gorgon/pipe_forker.rb:9:in `block in pipe_fork'
+Users/username/src/Gorgon/lib/gorgon/pipe_forker.rb:4:in `fork'
+Users/username/src/Gorgon/lib/gorgon/pipe_forker.rb:4:in `pipe_fork'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:89:in `fork_a_worker'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:75:in `block (2 levels) in fork_workers'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `times'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `block in fork_workers'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `call'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run_machine'
+Users/username/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:73:in `fork_workers'
+Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:53:in `manage'
+Users/username/src/Gorgon/bin/gorgon:41:in `manage_workers'
+Users/username/src/Gorgon/bin/gorgon:89:in `<top (required)>'
+Users/username/.rvm/gems/ruby-1.9.3-p551/bin/gorgon:23:in `load'
+Users/username/.rvm/gems/ruby-1.9.3-p551/bin/gorgon:23:in `<main>'
+Users/username/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
+Users/username/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>'
 
 ********************************************************************************
-File 'spec/exception_spec.rb' failed/crashed at 'arturop-mac-2.local:1'
+File 'spec/exception_spec.rb' failed/crashed at hostname
 Test name: Exception spec raises: line 2
 [1;31mRuntimeError[0m
 Message: 
@@ -111,7 +111,7 @@ Message:
 
 
 ********************************************************************************
-File 'spec/failing_spec.rb' failed/crashed at 'arturop-mac-2.local:1'
+File 'spec/failing_spec.rb' failed/crashed at hostname
 Test name: Failing spec fails: line 6
 [1;31mRSpec::Expectations::ExpectationNotMetError[0m
 Message: 
