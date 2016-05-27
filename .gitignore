@@ -1,3 +1,4 @@
 gorgon*.json
 *.log
 log/*
+/.idea/
