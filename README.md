@@ -12,6 +12,12 @@ This app is used to test [Gorgon](https://github.com/nulogy/Gorgon).
 1. `gorgon listen`
 1. In a new tab/window, execute `gorgon`.
 
+### Installation Troubleshooting
+
+* If you have trouble installing the *eventmachine* gem on Mac OS X because of an issue with building with openssl, then try using Homebrew's version of `openssl`:
+  * `brew install openssl`
+  * `brew link openssl --force`
+
 ## Debugging Tools
 
 * Use `rspec_runner.rb` to debug Gorgon's RspecRunner. You can use `binding.pry`. To use it, run: `bundle exec ruby rspec_runner.rb`
