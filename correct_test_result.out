@@ -1,4 +1,4 @@
-Welcome to Gorgon 0.10.2
+Welcome to Gorgon 0.11.0
 before job starts was called
 Loading environment and workers...                                  Legend:
 F - failure files count
@@ -31,15 +31,15 @@ Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:89:in `fork_a_worker'
 Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:75:in `block (2 levels) in fork_workers'
 Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `times'
 Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `block in fork_workers'
-Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `call'
-Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run_machine'
-Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run'
+Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.9.1/lib/eventmachine.rb:193:in `call'
+Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.9.1/lib/eventmachine.rb:193:in `run_machine'
+Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.9.1/lib/eventmachine.rb:193:in `run'
 Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:73:in `fork_workers'
 Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:53:in `manage'
-Users/username/src/Gorgon/bin/gorgon:41:in `manage_workers'
-Users/username/src/Gorgon/bin/gorgon:89:in `<top (required)>'
-Users/username/.rvm/gems/ruby-2.1.6/bin/gorgon:23:in `load'
-Users/username/.rvm/gems/ruby-2.1.6/bin/gorgon:23:in `<main>'
+Users/username/src/Gorgon/bin/gorgon:43:in `manage_workers'
+Users/username/src/Gorgon/bin/gorgon:100:in `<top (required)>'
+Users/username/.rvm/gems/ruby-2.1.6/bin/gorgon:22:in `load'
+Users/username/.rvm/gems/ruby-2.1.6/bin/gorgon:22:in `<main>'
 Users/username/.rvm/gems/ruby-2.1.6/bin/ruby_executable_hooks:15:in `eval'
 Users/username/.rvm/gems/ruby-2.1.6/bin/ruby_executable_hooks:15:in `<main>'
 
@@ -91,15 +91,15 @@ Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:89:in `fork_a_worker'
 Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:75:in `block (2 levels) in fork_workers'
 Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `times'
 Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:74:in `block in fork_workers'
-Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `call'
-Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run_machine'
-Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.7/lib/eventmachine.rb:187:in `run'
+Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.9.1/lib/eventmachine.rb:193:in `call'
+Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.9.1/lib/eventmachine.rb:193:in `run_machine'
+Users/username/.rvm/gems/ruby-2.1.6/gems/eventmachine-1.0.9.1/lib/eventmachine.rb:193:in `run'
 Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:73:in `fork_workers'
 Users/username/src/Gorgon/lib/gorgon/worker_manager.rb:53:in `manage'
-Users/username/src/Gorgon/bin/gorgon:41:in `manage_workers'
-Users/username/src/Gorgon/bin/gorgon:89:in `<top (required)>'
-Users/username/.rvm/gems/ruby-2.1.6/bin/gorgon:23:in `load'
-Users/username/.rvm/gems/ruby-2.1.6/bin/gorgon:23:in `<main>'
+Users/username/src/Gorgon/bin/gorgon:43:in `manage_workers'
+Users/username/src/Gorgon/bin/gorgon:100:in `<top (required)>'
+Users/username/.rvm/gems/ruby-2.1.6/bin/gorgon:22:in `load'
+Users/username/.rvm/gems/ruby-2.1.6/bin/gorgon:22:in `<main>'
 Users/username/.rvm/gems/ruby-2.1.6/bin/ruby_executable_hooks:15:in `eval'
 Users/username/.rvm/gems/ruby-2.1.6/bin/ruby_executable_hooks:15:in `<main>'
 
